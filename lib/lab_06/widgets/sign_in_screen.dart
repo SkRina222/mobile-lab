@@ -63,7 +63,7 @@ class SignInScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                               builder: (context) =>
-                              const ResetPasswordScreen(),
+                                  const ResetPasswordScreen(),
                             ),
                           );
                         },
